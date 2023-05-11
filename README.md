@@ -1,3 +1,8 @@
+Entertainment category-
+![Screenshot en](https://github.com/Pratikpalande/papnews/assets/126753222/410d1ff2-7022-4518-bd9d-c1bb371617cd)
+
+
+Sports category -
 ![Screenshot (1)](https://github.com/Pratikpalande/papnews/assets/126753222/9682a615-6a73-43e0-9c70-7720ba5861c6)
 
 # Getting Started with Create React App
