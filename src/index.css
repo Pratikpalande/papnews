@@ -1,0 +1,67 @@
+
+/* .navbar:hover{
+  text-decoration: underline;
+} */
+.iconn{
+  color: white;
+}
+ion-icon{
+  color: white;
+  font-size: 23px;
+}
+.navbar-brand:hover{
+  color: blue;
+}
+.navbar{
+  background-color: rgb(0, 0, 0);
+  color: white;
+  padding:2px;
+}
+.conn{
+  background-color: rgb(255, 255, 255);
+}
+h2{
+  text-align: center;
+  margin: 20px;
+}
+.card:hover{
+ color:rgb(33, 76, 217);
+}
+.card-img-top{
+  transition: width 2s, height 2s;
+}
+.card-img-top:hover{
+ transform: scale3d(2,2);
+  cursor: pointer;
+  width: 300px;
+  z-index: 1;
+  border-radius: 6px;
+}
+/* .btn:hover{
+    background-color: blueviolet;
+    color: black;
+} */
+
+.nav-link{
+  font-size: larger;
+  color: rgb(255, 255, 255);
+}
+.nav-link:hover{
+
+  color: rgb(172, 0, 0);
+}
+.navbar-brand  {
+  color: white;
+}
+.navbar-brand:hover {
+  color: white;
+}
+.nav-link .active{color: white;}
+.nav-link .active:hover{color: white;}
+
+.nav-link{
+  color: white;
+}
+.nav-link:hover{
+  color: white;
+}
