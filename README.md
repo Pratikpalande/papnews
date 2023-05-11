@@ -1,3 +1,5 @@
+![Screenshot (1)](https://github.com/Pratikpalande/papnews/assets/126753222/bcf8cac1-c8ce-45d5-9bea-504bc8776fca)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
